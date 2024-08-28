@@ -1,0 +1,11 @@
+sentence-transformers
+langchain
+langchain-community
+langchain_teddynote
+chromadb
+requests
+torch
+torchvision
+torchaudio
+chroma
+langchain-chroma
